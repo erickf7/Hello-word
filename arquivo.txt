@@ -1,3 +1,9 @@
 Primeira Aula de Git
 
+
 Estou na branch MASTER
+
+Estou na branch DEV
+
+Tá tudo certo
+
